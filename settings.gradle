@@ -1,0 +1,10 @@
+pluginManagement {
+    repositories {
+        maven {
+            url "https://artifactrepo.mille.pl/nexus/repository/public-java/"
+        }
+    }
+
+    rootProject.name = 'graphserver'
+}
+
